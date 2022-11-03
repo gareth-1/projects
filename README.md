@@ -7,5 +7,6 @@ table of contents
 3. area and perimeter calculator (variables and operations) 
 4. if-else 
 5. if-elif
+6.if-elif-else
 
 **all projects can be used as templates to build on with proper credits.
